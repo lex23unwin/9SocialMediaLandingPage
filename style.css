@@ -35,6 +35,7 @@ body {
   justify-content: center;
   align-items: center;
   padding-top: .7em;
+  margin: 0 1em;
   gap: .5em;
   color: white;
   text-shadow: 2px 2px 2px rgba(0,0,0,0.5);
